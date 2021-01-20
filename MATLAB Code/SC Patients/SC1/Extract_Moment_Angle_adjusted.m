@@ -21,11 +21,15 @@ plot_bool_res = 1;
 %% Prepare EMG data
 %---Load raw EMG and filter---
 mkdir(strcat(output_path, 'Filtered EMG'))
-for i=1:length(muscle_names)
+for i=1:1%length(muscle_names)
     for j=1:length(degrees)
         filename = strcat('SC', subject, '_MVC35_', degrees(j), 'deg_', muscle_names(i));
         load(strcat(input_path, filename))
         EMG_raw = [GM.values, SOL.values, TA.values];
+        figure
+        plot(EMG_raw)
+        legend(["GM", "SOL", "TA"])
+        title(strcat(muscle_names(i), degrees(j)))
         EMG_filtered = Filter_function(filename, EMG_raw, plot_bool_filter);
         save(strcat(output_path, 'Filtered EMG/', filename, '_Filtered'), 'EMG_filtered')
     end
@@ -36,7 +40,7 @@ MVC = get_MVC(subject);
 
 %% Synchronise data files
 n=1;
-for i=1:length(muscle_names)
+for i=1:1%length(muscle_names)
     for j = 1:length(degrees)
         filename = strcat('SC', subject, '_MVC35_', degrees(j), 'deg_', muscle_names(i));
         disp(strcat('Iteration number: ', num2str(n)))
@@ -62,9 +66,9 @@ for i=1:length(muscle_names)
         
         %---Load Marker---
         % Path ex: Input Data\Markers\SC2_MVC35_0deg_GM
-        marker_folder_name = strcat('SC', subject, '_MVC35_', degrees(j), 'deg_', muscle_names(i), '/');
-        marker_path = strcat(input_path, 'Markers/', marker_folder_name);
-        load(strcat(marker_path, 'Markers'));
+%         marker_folder_name = strcat('SC', subject, '_MVC35_', degrees(j), 'deg_', muscle_names(i), '/');
+%         marker_path = strcat(input_path, 'Markers/', marker_folder_name);
+%         load(strcat(marker_path, 'Markers'));
         marker_index = marker_indices(n);
         %---Synchronize US---
         marker_rate = Markers.Rate; 
@@ -82,6 +86,9 @@ for i=1:length(muscle_names)
         load(strcat(output_path, 'Filtered EMG/', filename, '_Filtered'))
         disp(strcat('Filtered EMG: ', num2str(length(EMG_filtered))))
         %---Normalize EMG---
+        figure
+        plot(EMG_filtered)
+        title(strcat(muscle_names(i), degrees(j)))
         EMG_normalized = Normalize_function(filename, EMG_filtered, MVC, plot_bool_norm);
         %---Convert EMG from mat to mot---
         EMG_t_full = GM.times;
@@ -110,6 +117,9 @@ for i=1:length(muscle_names)
         filename = strcat('SC', subject, '_MVC35_', degrees(j), 'deg_', muscle_names(i));
         load(strcat(input_path, filename));
         torque = -Moment.values;
+        figure
+        plot(torque)
+        title(strcat(muscle_names(i), degrees(j)))
         disp(strcat('torque: ', num2str(length(torque))))
         angle = Vinkel.values;
         time = Moment.times;
