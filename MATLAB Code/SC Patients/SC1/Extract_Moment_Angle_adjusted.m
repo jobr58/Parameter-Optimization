@@ -1,5 +1,5 @@
 clc; clear variables; close all;
-addpath E:\'Parameter Optimization Project'\'US Decompressed'\'MATLAB Code'\SharedCode
+addpath C:\Users\foo\Downloads\Parameter-Optimization-main\'MATLAB Code'\SharedCode
 input_path = './Input Data/';
 output_path = './Output Data/';
 mkdir(output_path, 'Normalized EMG')
@@ -21,7 +21,7 @@ plot_bool_res = 1;
 %% Prepare EMG data
 %---Load raw EMG and filter---
 mkdir(strcat(output_path, 'Filtered EMG'))
-for i=1:1%length(muscle_names)
+for i=1:length(muscle_names)
     for j=1:length(degrees)
         filename = strcat('SC', subject, '_MVC35_', degrees(j), 'deg_', muscle_names(i));
         load(strcat(input_path, filename))
@@ -40,7 +40,7 @@ MVC = get_MVC(subject);
 
 %% Synchronise data files
 n=1;
-for i=1:1%length(muscle_names)
+for i=1:length(muscle_names)
     for j = 1:length(degrees)
         filename = strcat('SC', subject, '_MVC35_', degrees(j), 'deg_', muscle_names(i));
         disp(strcat('Iteration number: ', num2str(n)))
@@ -71,7 +71,7 @@ for i=1:1%length(muscle_names)
 %         load(strcat(marker_path, 'Markers'));
         marker_index = marker_indices(n);
         %---Synchronize US---
-        marker_rate = Markers.Rate; 
+        marker_rate = 200; 
         marker_time_adjust = 2; % Seconds, Time between EMG start and Marker start
         marker_index_adjust = marker_time_adjust*marker_rate;
         US_time_end = length(US_fiber_length)/US_rate;        
