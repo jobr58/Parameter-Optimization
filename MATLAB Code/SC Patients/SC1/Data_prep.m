@@ -26,7 +26,7 @@ for i=1:length(muscle_names)
         filename = strcat('SC', subject, '_MVC35_', degrees(j), 'deg_', muscle_names(i));
         load(strcat(input_path, filename))
         EMG_raw = [GM.values, SOL.values, TA.values];
-        EMG_filtered = Filter_function(filename, EMG_raw, plot_bool_filter);
+        EMG_filtered = Filter_EMG(filename, EMG_raw, plot_bool_filter);
         save(strcat(output_path, 'Filtered EMG/', filename, '_Filtered'), 'EMG_filtered')
     end
 end
@@ -79,7 +79,7 @@ for i=1:length(muscle_names)
         load(strcat(output_path, 'Filtered EMG/', filename, '_Filtered'))
         disp(strcat('Filtered EMG: ', num2str(length(EMG_filtered))))
         %---Normalize EMG---
-        EMG_normalized = Normalize_function(filename, EMG_filtered, MVC, plot_bool_norm);
+        EMG_normalized = Normalize_EMG(filename, EMG_filtered, MVC, plot_bool_norm);
         %---Convert EMG from mat to mot---
         EMG_t_full = GM.times;
         %---Delay and cut data----
@@ -140,7 +140,7 @@ for i=1:length(muscle_names)
         %---EMG---
         EMG_file_format = '.mot'; 
         EMG_muscle_labels = {'med_gas_r', 'soleus_r', 'tib_ant_r'};
-        printEMGmot(output_path,R_time0,R_EMG_data0,EMG_muscle_labels, EMG_file_format, muscle_names(i), degrees(j));
+        write_EMG_mot(output_path,R_time0,R_EMG_data0,EMG_muscle_labels, EMG_file_format, muscle_names(i), degrees(j));
         
         if plot_bool_res == 1
             figure()
