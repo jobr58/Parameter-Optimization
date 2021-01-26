@@ -16,8 +16,7 @@ function [emg4] = Filter_function(filename, data, plot_bool)
         emg3(:,i) = abs(emg2(:,i));
         
         % Apply nth order, 0-lag, Butterworth low-pass filter
-        order = 6;
-        [b,a] = butter(order,20/fn);
+        [b,a] = butter(6, 6/fn);
         emg4(:,i) = filtfilt(b,a,emg3(:,i));
         
         % Plot emg
@@ -31,7 +30,7 @@ function [emg4] = Filter_function(filename, data, plot_bool)
             end
             
             subplot(4,3,x(1))
-            plot(emg)
+            plot(abs(emg))
             title(muscle_names(i))
             sgtitle(filename)
             grid on;

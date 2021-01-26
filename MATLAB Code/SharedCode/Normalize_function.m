@@ -3,9 +3,8 @@ function [EMG] = Normalize_function(filename, data, MVC, plot_bool)
     muscle_names = ["GM", "Sol", "TA"];
     EMG = zeros(size(data));
     
-    for i=1:3
-        EMG(:,i) = data(:,i)/MVC(i);
-    end
+    EMG = data./MVC;
+    
     save(strcat('./Output Data/Normalized EMG/', filename,'_Normalized'), 'EMG');
     
     if plot_bool == 1
