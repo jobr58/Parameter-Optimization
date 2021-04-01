@@ -1,0 +1,72 @@
+This is Ipopt version 3.12.3, running with linear solver mumps.
+NOTE: Other linear solvers might be more efficient (see Ipopt documentation).
+
+Number of nonzeros in equality constraint Jacobian...:    52664
+Number of nonzeros in inequality constraint Jacobian.:    21092
+Number of nonzeros in Lagrangian Hessian.............:    48728
+
+Total number of variables............................:    21092
+                     variables with only lower bounds:        0
+                variables with lower and upper bounds:        0
+                     variables with only upper bounds:        0
+Total number of equality constraints.................:    17120
+Total number of inequality constraints...............:    21092
+        inequality constraints with only lower bounds:     3960
+   inequality constraints with lower and upper bounds:    17132
+        inequality constraints with only upper bounds:        0
+
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+   0 1.8942130e-001 6.16e-001 5.92e-003  -1.0 0.00e+000    -  0.00e+000 0.00e+000   0
+   1 3.9769942e-001 1.46e+000 1.74e+000  -1.0 1.08e-001    -  9.82e-001 1.00e+000f  1
+   2 2.0015900e+000 1.94e+001 7.02e+000  -1.0 1.51e+000    -  7.37e-001 1.00e+000f  1
+   3 2.7458024e+000 1.38e+000 9.95e-001  -1.0 1.44e+000    -  1.00e+000 1.00e+000h  1
+   4 2.6542174e+000 2.61e-002 1.82e-001  -1.7 1.56e-001  -2.0 1.00e+000 1.00e+000h  1
+   5 2.2256319e+000 1.56e-001 8.80e-002  -2.5 7.96e-002  -2.5 1.00e+000 1.00e+000f  1
+   6 1.3445146e+000 1.00e+000 3.44e-002  -2.5 1.53e-001  -3.0 1.00e+000 1.00e+000h  1
+   7 1.3099371e+000 2.91e-002 2.89e-003  -2.5 2.93e-001  -3.4 1.00e+000 1.00e+000h  1
+   8 9.5279664e-001 5.65e-001 2.26e-002  -3.8 2.50e-001  -3.9 9.54e-001 1.00e+000f  1
+   9 5.8983465e-001 7.46e-001 1.57e-002  -3.8 2.50e-001  -4.4 1.00e+000 1.00e+000h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  10 4.8355718e-001 1.80e-001 1.35e-003  -3.8 2.27e-001  -4.9 1.00e+000 1.00e+000h  1
+  11 4.8110950e-001 4.80e-003 1.55e-004  -3.8 1.49e-001  -5.3 1.00e+000 1.00e+000h  1
+  12 3.3170495e-001 4.91e-001 4.56e-003  -5.7 5.46e-001  -5.8 8.26e-001 1.00e+000h  1
+  13 2.5098581e-001 7.91e-001 5.10e-004  -5.7 1.19e+000    -  9.53e-001 1.00e+000h  1
+  14 2.2940603e-001 3.87e-001 2.03e-004  -5.7 8.08e-001    -  1.00e+000 1.00e+000h  1
+  15 2.2610372e-001 5.39e-002 3.66e-005  -5.7 5.00e-001    -  1.00e+000 1.00e+000h  1
+  16 2.2583689e-001 1.92e-003 8.64e-007  -5.7 1.33e-001    -  1.00e+000 1.00e+000h  1
+  17 2.2583017e-001 2.74e-006 8.94e-010  -5.7 7.74e-004    -  1.00e+000 1.00e+000h  1
+  18 2.2165708e-001 3.46e-002 1.44e-005  -7.0 1.91e-001    -  1.00e+000 1.00e+000h  1
+  19 2.2128293e-001 8.17e-003 2.79e-006  -7.0 7.48e-002    -  1.00e+000 1.00e+000h  1
+iter    objective    inf_pr   inf_du lg(mu)  ||d||  lg(rg) alpha_du alpha_pr  ls
+  20 2.2124772e-001 8.15e-004 2.54e-007  -7.0 4.64e-003    -  1.00e+000 1.00e+000h  1
+  21 2.2124579e-001 1.13e-005 2.89e-009  -7.0 7.98e-004    -  1.00e+000 1.00e+000h  1
+
+Number of Iterations....: 21
+
+                                   (scaled)                 (unscaled)
+Objective...............:  2.2124579020374641e-001   2.2124579020374641e-001
+Dual infeasibility......:  2.8870423948761835e-009   2.8870423948761835e-009
+Constraint violation....:  3.0216520224835008e-007   1.1300811783243603e-005
+Complementarity.........:  9.1162128703149148e-008   9.1162128703149148e-008
+Overall NLP error.......:  3.0216520224835008e-007   1.1300811783243603e-005
+
+
+Number of objective function evaluations             = 22
+Number of objective gradient evaluations             = 22
+Number of equality constraint evaluations            = 22
+Number of inequality constraint evaluations          = 22
+Number of equality constraint Jacobian evaluations   = 22
+Number of inequality constraint Jacobian evaluations = 22
+Number of Lagrangian Hessian evaluations             = 21
+Total CPU secs in IPOPT (w/o function evaluations)   =      3.384
+Total CPU secs in NLP function evaluations           =      2.076
+
+EXIT: Optimal Solution Found.
+      solver  :   t_proc      (avg)   t_wall      (avg)    n_eval
+       nlp_f  |        0 (       0)        0 (       0)        22
+       nlp_g  | 264.00ms ( 12.00ms) 265.56ms ( 12.07ms)        22
+  nlp_grad_f  |        0 (       0)        0 (       0)        23
+  nlp_hess_l  |   1.08 s ( 51.24ms)   1.08 s ( 51.33ms)        21
+   nlp_jac_g  | 783.00ms ( 34.04ms) 780.91ms ( 33.95ms)        23
+       total  |   5.46 s (  5.46 s)   5.46 s (  5.46 s)         1
+Computation time solving OCP: 13.9556 s
