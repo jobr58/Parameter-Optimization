@@ -1,5 +1,5 @@
 
-subject = '1';
+subject = '2';
 muscle_names = ["GM", "Sol", "TA1", "TA2"];
 degrees = ["0", "10", "20", "15"];
 
