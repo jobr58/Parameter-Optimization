@@ -10,12 +10,16 @@ mkdir(output_path, 'Result Plots')
 subject = '1';
 muscle_names = ["GM", "Sol", "TA1", "TA2"];
 degrees = ["0", "10", "20", "-5"];
-marker_indices = [  2650, 2008, 1810, 1990, ...          % GM:   0 10 20 -5
-                    2227, 2128, 1820, 1952, ...          % SOL:  0 10 20 -5
-                    1530, 1728, 1957, 2059, ...          % TA1:  0 10 20 -5
-                    1601, 1562, 2260, 1950];             % TA2:  0 10 20 -5
-plot_bool_filter = 1;
-plot_bool_norm = 1;
+marker_indices = [  2571, 1957, 1830, 2008, ...          % GM:   0 10 20 -5
+                    2420, 2128, 1865, 1958, ...          % SOL:  0 10 20 -5
+                    1523, 1798, 1967, 2085, ...          % TA1:  0 10 20 -5
+                    1588, 1585, 2256, 1953];             % TA2:  0 10 20 -5
+frequencies = [ 16, 16, 16, 16, ...                      % same as above
+                16, 16, 16, 16, ...
+                33, 33, 33, 33, ...
+                33, 33, 33, 33];
+plot_bool_filter = 0;
+plot_bool_norm = 0;
 plot_bool_res = 1;
 
 %% Prepare EMG data
@@ -47,15 +51,7 @@ for i=1:length(muscle_names)
         US = load(strcat(input_path, US_filename));
         US_fiber_length = US.Fdat.Region.FL';
         
-        if muscle_names(i) == "GM"
-            US_rate = 16;
-        elseif muscle_names(i) == "Sol"
-            US_rate = 16;
-        elseif muscle_names(i) == "TA1"
-            US_rate = 33;
-        elseif muscle_names(i) == "TA2"
-            US_rate = 33;
-        end
+        US_rate = frequencies(n);
         
         if US_rate > 30
             US_rate = 30;
@@ -147,23 +143,20 @@ for i=1:length(muscle_names)
             subplot(3,1,1), plot(R_time0,R_TorqueData0);
             xlabel('Time')
             ylabel('Torque')
-            saveas(gca, fullfile(plot_path, strcat('Torque_', muscle_names(i), '_', degrees(j))),'fig');
-            saveas(gca, fullfile(plot_path, strcat('Torque_', muscle_names(i), '_', degrees(j))),'jpg');
             
             subplot(3,1,2)
             plot(R_time0, R_EMG_data0); legend('GM','Sol','TA');
             xlabel('Time')
             ylabel('EMG Data')
-            saveas(gca, fullfile(plot_path, strcat('EMG_', muscle_names(i), '_', degrees(j))),'fig');
-            saveas(gca, fullfile(plot_path, strcat('EMG_', muscle_names(i), '_', degrees(j))),'jpg');
             
             subplot(3,1,3)
             plot(R_time0, US_fiber_length); legend(muscle_names(i));
             xlabel('Time')
             ylabel('US Data')
-            saveas(gca, fullfile(plot_path, strcat('US_', muscle_names(i), '_', degrees(j))),'fig');
-            saveas(gca, fullfile(plot_path, strcat('US_', muscle_names(i), '_', degrees(j))),'jpg');
-            sgtitle(strcat(muscle_names(i), ' ', degrees(j), 'deg'))
+            sgtitle(strcat(muscle_names(i), ', ', degrees(j), 'deg'))
+            saveas(gca, fullfile(plot_path, strcat('Results_', muscle_names(i), '_', degrees(j))),'fig');
+            saveas(gca, fullfile(plot_path, strcat('Results__', muscle_names(i), '_', degrees(j))),'jpg');
+            
         end
         disp('-------------------------')
         disp(' ')

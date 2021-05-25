@@ -1,0 +1,2376 @@
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA1_0 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA1_0.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA1_0.mot (nr=243 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 243 state vectors with time stamps ranging from 2.79435 to 10.8448.
+Executing the analyses from 2.79435 to 10.8448...
+Printing results of investigation ik_TA1_0 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA1\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA1_10 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA1_10.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA1_10.mot (nr=225 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 225 state vectors with time stamps ranging from 2.99395 to 10.4456.
+Executing the analyses from 2.99395 to 10.4456...
+Printing results of investigation ik_TA1_10 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA1\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA1_20 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA1_20.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA1_20.mot (nr=244 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 244 state vectors with time stamps ranging from 2.56149 to 10.6452.
+Executing the analyses from 2.56149 to 10.6452...
+Printing results of investigation ik_TA1_20 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA1\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA1_-5 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA1_-5.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA1_-5.mot (nr=200 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 200 state vectors with time stamps ranging from 4.3246 to 10.9446.
+Executing the analyses from 4.3246 to 10.9446...
+Printing results of investigation ik_TA1_-5 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA1\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_GM_0 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_GM_0.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_GM_0.mot (nr=140 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 140 state vectors with time stamps ranging from 2.93448 to 12.8831.
+Executing the analyses from 2.93448 to 12.8831...
+Printing results of investigation ik_GM_0 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_GM\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_GM_10 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_GM_10.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_GM_10.mot (nr=110 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 110 state vectors with time stamps ranging from 3.72177 to 11.5232.
+Executing the analyses from 3.72177 to 11.5232...
+Printing results of investigation ik_GM_10 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_GM\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_GM_20 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_GM_20.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_GM_20.mot (nr=121 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 121 state vectors with time stamps ranging from 2.50504 to 11.0937.
+Executing the analyses from 2.50504 to 11.0937...
+Printing results of investigation ik_GM_20 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_GM\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_GM_-5 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_GM_-5.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_GM_-5.mot (nr=125 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 125 state vectors with time stamps ranging from 2.3619 to 11.2369.
+Executing the analyses from 2.3619 to 11.2369...
+Printing results of investigation ik_GM_-5 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_GM\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_SOL_0 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_SOL_0.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_SOL_0.mot (nr=123 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 123 state vectors with time stamps ranging from 2.79133 to 11.5232.
+Executing the analyses from 2.79133 to 11.5232...
+Printing results of investigation ik_SOL_0 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_SOL\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_SOL_10 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_SOL_10.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_SOL_10.mot (nr=126 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 126 state vectors with time stamps ranging from 2.3619 to 11.3085.
+Executing the analyses from 2.3619 to 11.3085...
+Printing results of investigation ik_SOL_10 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_SOL\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_SOL_20 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_SOL_20.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_SOL_20.mot (nr=152 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 152 state vectors with time stamps ranging from 2.64819 to 13.4556.
+Executing the analyses from 2.64819 to 13.4556...
+Printing results of investigation ik_SOL_20 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_SOL\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_SOL_-5 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_SOL_-5.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_SOL_-5.mot (nr=150 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 150 state vectors with time stamps ranging from 2.93448 to 13.5988.
+Executing the analyses from 2.93448 to 13.5988...
+Printing results of investigation ik_SOL_-5 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_SOL\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA2_0 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA2_0.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA2_0.mot (nr=227 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 227 state vectors with time stamps ranging from 3.42641 to 10.9446.
+Executing the analyses from 3.42641 to 10.9446...
+Printing results of investigation ik_TA2_0 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA2\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA2_10 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA2_10.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA2_10.mot (nr=267 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 267 state vectors with time stamps ranging from 3.19355 to 12.0423.
+Executing the analyses from 3.19355 to 12.0423...
+Printing results of investigation ik_TA2_10 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA2\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA2_20 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA2_20.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA2_20.mot (nr=259 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 259 state vectors with time stamps ranging from 3.65927 to 12.2419.
+Executing the analyses from 3.65927 to 12.2419...
+Printing results of investigation ik_TA2_20 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA2\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA2_-5 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA2_-5.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA2_-5.mot (nr=234 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 234 state vectors with time stamps ranging from 3.42641 to 11.1774.
+Executing the analyses from 3.42641 to 11.1774...
+Printing results of investigation ik_TA2_-5 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA2\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA2_0 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA2_0.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA2_0.mot (nr=227 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 227 state vectors with time stamps ranging from 3.42641 to 10.9446.
+Executing the analyses from 3.42641 to 10.9446...
+Printing results of investigation ik_TA2_0 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA2\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA2_10 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA2_10.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA2_10.mot (nr=267 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 267 state vectors with time stamps ranging from 3.19355 to 12.0423.
+Executing the analyses from 3.19355 to 12.0423...
+Printing results of investigation ik_TA2_10 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA2\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA2_20 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA2_20.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA2_20.mot (nr=259 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 259 state vectors with time stamps ranging from 3.65927 to 12.2419.
+Executing the analyses from 3.65927 to 12.2419...
+Printing results of investigation ik_TA2_20 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA2\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA2_-5 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA2_-5.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA2_-5.mot (nr=234 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 234 state vectors with time stamps ranging from 3.42641 to 11.1774.
+Executing the analyses from 3.42641 to 11.1774...
+Printing results of investigation ik_TA2_-5 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA2\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA2_0 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA2_0.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA2_0.mot (nr=227 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 227 state vectors with time stamps ranging from 3.42641 to 10.9446.
+Executing the analyses from 3.42641 to 10.9446...
+Printing results of investigation ik_TA2_0 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA2\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA2_10 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA2_10.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA2_10.mot (nr=267 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 267 state vectors with time stamps ranging from 3.19355 to 12.0423.
+Executing the analyses from 3.19355 to 12.0423...
+Printing results of investigation ik_TA2_10 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA2\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA2_20 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA2_20.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA2_20.mot (nr=259 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 259 state vectors with time stamps ranging from 3.65927 to 12.2419.
+Executing the analyses from 3.65927 to 12.2419...
+Printing results of investigation ik_TA2_20 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA2\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+AbstractTool ik_TA2_-5 loading model 'E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim'
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.
+No external loads will be applied (external loads file not specified).
+
+Loading coordinates from file .\Output Data\ik_TA2_-5.mot.
+Old version storage/motion file encountered
+Storage: read data file =.\Output Data\ik_TA2_-5.mot (nr=234 nc=2)
+.. assuming rotations in Degrees.
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tilt/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_list/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_rotation/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tx/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_ty/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ground_pelvis/pelvis_tz/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_flexion_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_adduction_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_r/hip_rotation_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_r/knee_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_r/subtalar_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_r/mtp_angle_r/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_flexion_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_adduction_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/hip_l/hip_rotation_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/knee_l/knee_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/ankle_l/ankle_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/subtalar_l/subtalar_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/mtp_l/mtp_angle_l/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_extension/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_bending/value in storage object.
+
+Model::formCompleteStorages(): WARNING- Did not find column /jointset/back/lumbar_rotation/value in storage object.
+
+Found 234 state vectors with time stamps ranging from 3.42641 to 11.1774.
+Executing the analyses from 3.42641 to 11.1774...
+Printing results of investigation ik_TA2_-5 to E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\Results_SimpeAnkle_TA2\MuscleAnalysis.
+Loaded model S3 from file E:\Parameter Optimization Project\US Decompressed\MATLAB Code\Control Patients\SC3\S3.osim
+Couldn't find file 'sacrum.vtp'.
+Couldn't find file 'pelvis.vtp'.
+Couldn't find file 'l_pelvis.vtp'.
+Couldn't find file 'femur_r.vtp'.
+Couldn't find file 'tibia_r.vtp'.
+Couldn't find file 'fibula.vtp'.
+Couldn't find file 'talus.vtp'.
+Couldn't find file 'foot.vtp'.
+Couldn't find file 'bofoot.vtp'.
+Couldn't find file 'femur_l.vtp'.
+Couldn't find file 'tibia_l.vtp'.
+Couldn't find file 'l_fibula.vtp'.
+Couldn't find file 'l_talus.vtp'.
+Couldn't find file 'l_foot.vtp'.
+Couldn't find file 'l_bofoot.vtp'.
+Couldn't find file 'hat_spine.vtp'.
+Couldn't find file 'hat_jaw.vtp'.
+Couldn't find file 'hat_skull.vtp'.
+Couldn't find file 'hat_ribs.vtp'.

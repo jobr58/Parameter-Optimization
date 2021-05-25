@@ -1,7 +1,7 @@
 
-subject = '1';
+subject = '8';
 muscle_names = ["GM", "Sol", "TA1", "TA2"];
-degrees = ["0", "10", "20", "15"];
+degrees = ["0", "10", "20", "5"];
 
 for i=1:length(muscle_names)
     for j=1:length(degrees)

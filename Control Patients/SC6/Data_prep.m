@@ -10,12 +10,16 @@ mkdir(output_path, 'Result Plots')
 subject = '6';
 muscle_names = ["GM", "Sol", "TA1", "TA2"];
 degrees = ["0", "10", "20", "-5"];
-marker_indices = [  1903, 1761, 1719, 1713, ...          % GM:   0 10 20 -5
-                    1817, 1731, 1638, 1818, ...          % SOL:  0 10 20 -5
-                    1641, 2107, 1669, 1844, ...          % TA1:  0 10 20 -5
-                    2142, 2012, 1660, 2012];             % TA2:  0 10 20 -5
-plot_bool_filter = 1;
-plot_bool_norm = 1;
+marker_indices = [  1843, 1778, 1683, 1848, ...          % GM:   0 10 20 -5
+                    1754, 1718, 1800, 1630, ...          % SOL:  0 10 20 -5
+                    1766, 1724, 1669, 1575, ...          % TA1:  0 10 20 -5
+                    1615, 1664, 1568, 1671];             % TA2:  0 10 20 -5
+frequencies = [ 16, 16, 16, 16, ...                      % same as above
+                16, 16, 16, 16, ...
+                33, 33, 33, 16, ...
+                33, 33, 33, 16];
+plot_bool_filter = 0;
+plot_bool_norm = 0;
 plot_bool_res = 1;
 
 %% Prepare EMG data
@@ -47,15 +51,7 @@ for i=1:length(muscle_names)
         US = load(strcat(input_path, US_filename));
         US_fiber_length = US.Fdat.Region.FL';
         
-        if muscle_names(i) == "GM"
-            US_rate = 16;
-        elseif muscle_names(i) == "Sol"
-            US_rate = 16;
-        elseif muscle_names(i) == "TA1"
-            US_rate = 33;
-        elseif muscle_names(i) == "TA2"
-            US_rate = 33;
-        end
+        US_rate = frequencies(n);
         
         if US_rate > 30
             US_rate = 30;

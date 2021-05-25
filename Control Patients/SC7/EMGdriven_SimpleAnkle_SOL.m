@@ -39,7 +39,7 @@ Misc.USfile = {     fullfile(DataPath,'US_SOL_0.mot'); ...
 
 
 %-------------
-model_path   = {fullfile(pwd, 'S7.osim')};
+model_path   = {fullfile(pwd, 'S8.osim')};
 Out_path     = fullfile(pwd,'Results_SimpeAnkle_SOL'); % folder to store results
 plot_path = strcat(Out_path, '\figures');
 %time         = [7.05 17.5]; 

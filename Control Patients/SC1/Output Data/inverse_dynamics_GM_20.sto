@@ -4,7 +4,6 @@ nColumns=2
 inDegrees=no
 endheader
 time	ankle_angle_r_moment	
-2.625	-13.702393	
 2.6875	-13.792492	
 2.75	-13.793945	
 2.8125	-13.769967	
@@ -139,3 +138,4 @@ time	ankle_angle_r_moment
 10.875	-14.208113	
 10.9375	-14.231364	
 11	-14.196486	
+11.0625	-14.282227	
