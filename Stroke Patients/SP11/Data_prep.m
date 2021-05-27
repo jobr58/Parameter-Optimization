@@ -33,7 +33,7 @@ marker_indices = [  2800, 2700, 2800, ...       GM:  5 10 20
                     2000, 5000, 2600,  ...       SOL: 5 10 20
                     2000, ...                         SOL2: 10
                     5000, 3050, 2850,  ...       TA1: 5 10 20
-                    2000, 3850, 3500]; ...      TA2: 5 10 20
+                    2000, 3800, 3500]; ...      TA2: 5 10 20
                     
 % Same order as muscle_names
 frequencies = [     33, 33, 33,  ...       GM:  5 10 20 
@@ -126,14 +126,10 @@ for i=1:length(muscle_names)
     R_EMG_time0 = EMG_time_ds(1:length(US_fiber_length),:);
     %---Disp---
     disp(strcat('Cut Frame: ', num2str(CutFrame), ' Muscle: ', muscles(i), ' Deg: ', degrees(i)))
-    %---Low Pass Filter---
-    fn0 = EMG_rate/2;
-    [c, d] = butter(2, 2/fn0);
-    R_EMG_data0 = filtfilt(c, d, R_EMG_data0);
     
     
     %---Load Torque, Angle---
-    torque = -Moment.values;
+    torque = Moment.values;
     angle = Vinkel.values;
     time = EMG_t_full;
     %---Downsample Torque, Angle---
@@ -147,6 +143,20 @@ for i=1:length(muscle_names)
     R_time0=R_time(1:length(US_fiber_length),:); % Remove data after US end
     R_AngleData0=R_angle_data(1:length(US_fiber_length),:);
     R_TorqueData0=R_torque_data(1:length(US_fiber_length),:);
+    %---Low Pass Filter---
+    fn0 = EMG_rate/2;
+%     figure(100)
+%     plot(R_AngleData0)
+%     figure(110)
+%     plot(R_TorqueData0)
+    [c, d] = butter(2, 2/fn0);
+    R_TorqueData0 = filtfilt(c, d, R_TorqueData0);
+    [e, f] = butter(2, 5/fn0);
+    R_AngleData0 = filtfilt(e, f, R_AngleData0);
+%     figure(209)
+%     plot(R_AngleData0)
+%     figure(210)
+%     plot(R_TorqueData0)
     
     
     %----Output Files---

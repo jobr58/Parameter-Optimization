@@ -16,7 +16,7 @@ function [emg4] = Filter_EMG(filename, data, plot_bool)
         emg3(:,i) = abs(emg2(:,i));
         
         % Apply nth order, 0-lag, Butterworth low-pass filter
-        [b,a] = butter(6, 6/fn);
+        [b,a] = butter(2, 2/fn);
         emg4(:,i) = filtfilt(b,a,emg3(:,i));
         
         % Plot emg
