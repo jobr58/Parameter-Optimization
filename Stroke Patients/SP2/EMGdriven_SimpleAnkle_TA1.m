@@ -90,7 +90,7 @@ Misc.EMGSelection = {'med_gas_r','soleus_r','tib_ant_r'};
 
 % information for the EMG constraint
 Misc.EMGconstr  = 1;     		% Boolean to select EMG constrained option
-Misc.EMGbounds  = [-0.1 0.1];  	% upper and lower bound for difference between simulated and measured muscle activity
+Misc.EMGbounds  = [-0.3 0.3];  	% upper and lower bound for difference between simulated and measured muscle activity
 Misc.BoundsScaleEMG = [0.2 1.5];  % maximal value to scale EMG
 
 % Set weights

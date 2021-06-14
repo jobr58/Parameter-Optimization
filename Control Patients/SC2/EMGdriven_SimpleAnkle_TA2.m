@@ -101,9 +101,9 @@ Misc.BoundsScaleEMG = [0.2 1.5];  % maximal value to scale EMG
 Misc.wEMG   = 0.001;   % weight on tracking EMG
 Misc.wAct   = 0.1;
 Misc.wTres  = 10;
-Misc.wVm    = 0.001;
+Misc.wVm    = 0.01;
 % Set weights
-Misc.wlM    = 1;          	% weight on tracking fiber length
+Misc.wlM    = [1;1;1;1];          	% weight on tracking fiber length
 
 
 % Plotter Bool: Boolean to select if you want to plot lots of output information of intermediate steps in the script

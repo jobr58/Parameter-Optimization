@@ -26,7 +26,7 @@ end
 % Same order as muscle_names
 marker_indices = [  2700, 2000, 2400, 2450, ...       GM:  0 10 20 -5 
                     2000, 2100, 2600, 2600, ...       SOL: 0 10 20 -5
-                    2000, 2700, 2850, 2200]; ...      TA1: 0 10 20 -5
+                    2000, 2570, 2850, 2200]; ...      TA1: 0 10 20 -5
                     
 % Same order as muscle_names
 frequencies = [     16, 16, 16, 16, ...       GM:  0 10 20 -5 

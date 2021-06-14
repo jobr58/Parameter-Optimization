@@ -94,7 +94,7 @@ Misc.EMGSelection = {'med_gas_r','soleus_r','tib_ant_r'};
 
 % information for the EMG constraint
 Misc.EMGconstr  = 1;     		% Boolean to select EMG constrained option
-Misc.EMGbounds  = [-0.1 0.1];  	% upper and lower bound for difference between simulated and measured muscle activity
+Misc.EMGbounds  = [-1 1];  	% upper and lower bound for difference between simulated and measured muscle activity
 Misc.BoundsScaleEMG = [0.2 1.5];  % maximal value to scale EMG
 
 % Set weights
@@ -103,7 +103,7 @@ Misc.wAct   = 0.1;
 Misc.wTres  = 10;
 Misc.wVm    = 0.1;
 % Set weights
-Misc.wlM    = 1;          	% weight on tracking fiber length
+Misc.wlM    = [1; 1; 1; 1];          	% weight on tracking fiber length
 
 
 % Plotter Bool: Boolean to select if you want to plot lots of output information of intermediate steps in the script

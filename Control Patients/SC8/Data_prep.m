@@ -18,8 +18,8 @@ frequencies = [ 14, 14, 14, 14, ...                      % same as above
                 14, 14, 14, 14, ...
                 33, 33, 33, 33, ...
                 33, 33, 33, 33];
-plot_bool_filter = 1;
-plot_bool_norm = 1;
+plot_bool_filter = 0;
+plot_bool_norm = 0;
 plot_bool_res = 1;
 
 %% Prepare EMG data
